@@ -1,0 +1,15 @@
+.login-section{
+  .login{
+    min-height: 100vh;
+    .login-heading{
+      font-size: 22px;
+    }
+  }
+  .bg-image {
+    background-image: url('../../assets/img/login-bg.jpg');
+    background-size: cover;
+    background-position: center center;
+  }
+}
+
+
